@@ -1,0 +1,90 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  .box {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .blog{
+      position: absolute;
+      top: 18%;
+      left: 32%;
+      font-size: 40px;
+      font-family: 'Times New Roman', Times, serif;
+
+  }
+  .post{
+      position: absolute;
+      top: 40%;
+      left: 16%;
+  }
+  .postbutton{
+    background-color: #d4b484;
+    border: none;
+    color: rgb(128, 52, 52);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+
+  }
+  .box2{
+      position: absolute;
+      top: 40%;
+      left: 2%;
+  }
+  .profile2{
+      position:absolute;
+      top: 5%;
+      left:10%;
+  }
+  
+.username2{
+    position:absolute;
+    top:7%;
+    left: 17%;
+    font-size: 30px;
+}
+.likes2{
+    position: absolute;
+      top: 15%;
+      left: 10%;
+}
+.time2{
+    position: absolute;
+      top: 15%;
+      left: 19%;
+}
+.comment2{
+    position: absolute;
+      top: 15%;
+      left: 30%;
+}
+.dog{
+    position: absolute;
+      top: 25%;
+      left: 10%;
+}
+.box3{
+    position: absolute;
+    top: 105%;
+    left: 2%;
+}
+.box4{
+    position: absolute;
+    top: 105%;
+    left: 52%;
+}
+.pagenumber{
+    position: absolute;
+    font-size: 20px;
+    top: 200%
+    
+}
